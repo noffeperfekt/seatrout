@@ -1,0 +1,23 @@
+{
+  "name": "seatrout",
+  "version": "0.0.1",
+  "description": "Package with formulas etc regarding sea run browntrout (Salmo Trutta)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noffeperfekt/seatrout.git"
+  },
+  "keywords": [
+    "seatrout",
+    "salmotrutta"
+  ],
+  "author": "noffeperfekt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noffeperfekt/seatrout/issues"
+  },
+  "homepage": "https://github.com/noffeperfekt/seatrout#readme"
+}
