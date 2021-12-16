@@ -1,6 +1,6 @@
 {
   "name": "seatrout",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Package with formulas etc regarding sea run browntrout (Salmo Trutta)",
   "main": "index.js",
   "scripts": {
